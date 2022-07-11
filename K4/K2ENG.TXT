@@ -1,0 +1,102 @@
+                Cost Estimating In The Computer Age.
+
+  The need for accurate standarda on existing product lines and accurate
+costs on customer specials, new products, and engineering changes prompted
+Conair Franklin's cost estimating department to seek a computer solution.
+Today, three years after acquiring a PC-based computer-aided cost estimating
+(CACE) system, estimators at the 300 employee Franklin, Pa. plant agree the
+system is providing accurate estimates from which quality management
+decisions can be made.
+  Conair Franklin is one of 12 firms comprising the Conair Group, a leading
+maker of auxiliary machinery for the plastics industry. The company
+manufacturers five different product lines, ranging in value from $1000 for
+a piece of handling equipment to over $100000 for a complete material
+handling and conditioning system. Manufacturing at Conair includes extensive
+sheet metal fabrication, machining,electrical subassembly, final assembly,
+and erecting storage silos.
+  A Costimator 2 CACE System from Manufacturers Technologies,Inc., W.
+Springfield, Mass. was initially purchased to help Franklin create over 7000
+routings for standard fabrications, machinings, electrical subassemblies,
+and specialty parts such as filters and gaskets. The system reduced
+development time by two-thirds.
+  For example, it was estimated that, using conventional means, it would
+take six man years to complete all necessary routings in just the electrical
+subassembly department. Using MOST (Maynard Operation Sequence Technique),
+however, Franklin was able to construct a special electrical subassembly
+database within the CACE software. The necessary routings were completed in
+seven man month, and the resulting cost saving more then paid for the
+system.
+  Working with CACE. Written in C, the Costimator 2 CACE System runs on IBM
+XT, AT, and PS/2 computers and true compatibles. It operates with a sonic
+digitizer, an electronic device that measures part dimånsions and tool
+travel as a special pen is traced over a part drawing or model.
+  The system comes with sections on tooling (speeds, feeds, etc.), D.O.D.
+labor standards (to aid in compliance with M.S. 1567A) and materials. The
+software offers a great deal of flexibility. Each section was tailored to
+Conair's factory environment when they were trained to used the system.
+Consequently, users can easily edit the software without doing any
+programming.
+  Users are prompted to choose needed material, tooling, operations, and
+standards from a menu. The program also prompts the user to enter necessary
+part dimensions and tool travel data. If this information is alredy known,
+it may be typed into the estimate. If these values are not known, the sonic
+digitizer will determine distance. The digitizer's pen emits sound waves as
+it is traced on a drawing or part. Two microphones help to traingulate the
+pen's coordinates as it moves, which provides data that the software uses to
+determine real distance.
+  As the user builds a part estimate, the CACE software creates a process
+plan and routing. Speeds, feeds, number of pieces, material, and other
+variables within a complated estimate or report may be changed. The program
+instantly adjusts any values within the document that are affected by the
+changes.
+  For document storage and system backup, Conair uses a 20 Mb Bernoulli
+cartridge, which may be used interactively with their 40 Mb hard drive.
+  In estimating a job that resembles a project already completed, estimators
+save time by copying the finished estimate and adapting it to reflect the
+requirements of the new job. A separate section of precalculated labor
+standards (or parametric time elements) takes time savings a step further by
+enabling Conair to estimate many total job times almost as fast as they can
+select a pert's features.
+  CIM capabilities are enhanced by utility programs that enable Conair to
+convert process plans and routing into an ASCII format, which are then
+forwarded to Conair's mainframe MRP II database. This electronic transfer of
+data saves a lot of data entry time.
+  Other benefits were discovered as Conair became more familiary with the
+software:
+  Prior to obtaining CACE, labor standards were based on the estimates of
+department foremen responsible for a part's manufacture. These
+"guesstimates" were often a function of how well that department was
+operating on that particular day. Estimated times could vary from actual
+times by up to 50%. Conair found that computer-aided estimates are
+consistently within 5% of actual manufacturing times.
+  Using CACE, Conair is able to fully utilize their machining capacity. By
+making printed speed and feed information available to their machine
+operators and NC programmers, Conair has experienced a 15% improvement in
+their manufacturing capacity.
+  By coferring with Conair manufacturing standards analysts and studying
+CACE reports, R&D engineering people can quicly determine which of several
+possible product designs is most cost effective before a product goes into
+production. Prior to using CACE methods, any excessive new-product costs
+were rectified by extensive revision after the product's release. Proposed
+engineering changes may also be accurately analyzed through CACE to
+determine what their true cost (and potential savings) will be.
+  Analysing make-buy options with CACE helps Conair to easily determine
+whether they should make a part in-house, or farm it out to a vendor who can
+make the part more economically.
+  Basic requirements for a Conair Manufacturing Standards Analysts include:
+  Training on the CACE system, provide by the vendor.
+  Basic estimating experience, including Maynard Operation Sequence
+Technique.
+  Familiarity with the company's manufacturing processes.
+  Once these requirements have been met, estimates produced are accurate and
+consistent, regardless of who does them.
+  Whether the Costimator 2 System is used to create standard production
+routers, to estimate the viability of a new product design, or to propose an
+engineering change, we are confident the resulting documentation will be
+accurate. This confidence should be added near the top of the CACE benefits.
+Without it, an estimator often second guesses himself, questions the
+accuracy of his work, and stops to reconsider key operations. With it, the
+estimator can proceed rapidly from one project to the next, certain that his
+time and cost calculations are realistic.
+
+                           THE   END .

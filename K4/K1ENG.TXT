@@ -1,0 +1,238 @@
+           Simulating on a PC,OS/2 can provide the power
+
+    More than a million personal computers (PCs) are employed in American 
+factories . As people continue to find more tasks that suit the considerable
+capabilities of the PC,the importance of it having almost unlimited memory and
+the ability to execute more than one task at a time grows.
+    IBM and Microsoft have developed a new operating system for personal 
+computers,called OS/2,that gives the PC the needed multitasking capability
+and considerably more memory . However,users have not tossed DOS aside in favor
+of OS/2;partly because they have invested so much in DOS-based programs,and 
+partly because there have not been a lot of OS/2-based programs available-yet.
+    In the past few months,several applications running on OS/2 have become 
+available: Excel,Aldus,SPSS,Pagemaker,AutoCad,IBM PlantWorks, and a
+manufacturing-simulation software program: Witness from Istel Inc.,Beachwood,
+Ohio.
+    Running on an IBM AT or compatible and written in C,Witness was developed
+to take advantage of the benefits the OS/2 operating system provide. Says
+Charles Murgiano the manager of Instel:"The primary reason for introducing an
+OS/2-based manufacturing-simulation product is that OS/2 allows us to provide
+a better and more capable software tool to our users."
+    In a OS/2-based simulation program,model size is not as limited as it is 
+with DOS-based programs. In order to run models quickly on a DOS-based 
+simulation program,the user is limited to a model that will not take more than 
+640 Kb of memory in RAM. "You can run off the hard disk,(to bypass that memory 
+limit) but when you do that,it slows your execution speed down drastically,"
+says Murgiano." In other application programs that run on DOS,like Lotus,or
+Excel,or a word processing program,you can add additional boards of memory and 
+access that memory in pages . But in simulation,that doesn't work well . The
+problem is you have lots of random occurrences happening . So the software 
+doesn't know what sector of memory to access . Paging through memory slows down
+the execution time."
+    OS/2,though,allows a program to take extended memory and access it as if 
+it corresponded to RAM memory in DOS . OS/2 also accesses the hard disk more 
+quickly than DOS does . Therefore,if users can tolerate some degradation in 
+execution speed,after all the extended memory is used up,the program can run 
+off the hard disk . From a simulation standpoint,this ability allows users to 
+build manufacturing models to a size that is limited only by the number of
+extended memory boards added to the PC . "Conceivably you can build a model 
+that takes up to 6 or 7 Mbytes of memory," says Murgiano.
+    With the ability to create larger models,users can put in almost as much 
+detail in a model as needed . "Under our DOS-based simulation programs,a user 
+was typically limited to a model of 125 machines and 20000 to 30000 parts,"
+says Murgiano . "The user could handle these limits in several ways . For
+example,with parts a user could aggregate to parts together . If you're
+modeling fasteners through a process for instance,you'd model a batch of 
+fasteners as one part,rather than 20000 individual fasteners . So you can make
+assumptions like that to fit big plant models into 640 Kb . But there are 
+still instances where you want to go bigger and OS/2 lets you do that."
+    Graphics have become an important part of any simulation program . The
+amount of information communicated through pictures is important in creating
+and analyzing a model . But the DOS operating system does not readily support
+a graphical user interface . OS/2 does through the Presentation Manager user 
+interface . This interface makes it easy to use a mouse to activate commands
+, pointing the cursor and clicking , and using pull-down menus . With this type 
+of interface , users can concentrate on building and analyzing the model , not
+on programming instructions . The model-building process is speeded up ,
+helping users find answers more quickly .
+    Multitasking . One of the biggest complaints about DOS has been that it 
+will not execute multiple tasks simultaneously . OS/2 does permit 
+multitasking . And in simulation programs , this has advantages . A programmer
+can conceivably run two models simultaneously , two or more versions of a 
+model , or a model and a spreadsheet program simultaneously . Multitasking
+helps a model builder see statistical data from a model as it is running ,
+allowing users to better analyze and manipulate the data , and see problems
+as they arise . The model builder can make changes then , rather than wait 
+till the model run is complete , greatly speeding the model design process .
+    Says Murgiano,"Because of the multitasking capability , as well as the
+support for interprocess communication of OS/2,it is theoretically possible
+to pass data simultaneously from a Witness model to a spreadsheet . We hope
+to make this a reality in the near future once we work out the technical 
+details with Microsoft .
+    OS/2 allows multiple windows from a number of different programs to be
+displayed and run simultaneously on a terminal screen . It depends on the
+simulation program as to what types of functions are displayed and active .
+In Witness , for example , you can display the running model and several 
+charts that display trending data , number of parts completed data , 
+maintenance data , and so on simultaneously .
+    Everyone contributes . Because of these capabilities of the OS/2
+platform , Istel has been able to create a simulation program that is
+totally interactive . Users can build models the way they think , in bits in
+pieces , and by trial and error . No longer do programmers have to write 
+code , compile it , link it ,dump in the graphics , run it , and then go
+through this process again whenever they make a change . In the OS/2 version
+of Witness , a user simply stops the model run , changes one or more
+parameters , then tells the program to continue running . The change is
+immediately incorporated into the model , speeding up the analysis process ,
+and therefore getting solutions faster .
+    This interactive interfacing promotes group problem solving . " And
+that's where we feel the interactive , easy-to-program capability is
+essential," says Murgiano ." When programmers rather than manufacturing
+engineers design a model , elements are always missing . The people who
+are closest to a problem are the ones to solve it , and should contribute
+extensively to building the models . The people who use a program like
+Witness are factory supervisors , manufacturing engineers, and industrial
+engineers , not just computer programmers . Some of our more progressive
+customers even have their operators use simulation to work what-if
+questions on the factory model on a PC in the factory ."
+    With the multitasking , interactive features offered by OS/2 , a
+simulation program can be used for day-to-day or week-to-week planning 
+because users get information within hours instead of weeks or months .
+Capacity planning , line balancing , capital equipment justification , and
+production scheduling are just some of the applications an interactive
+simulation program can handle .
+    With such benefits to using OS/2 , will OS/2 replace DOS in the
+factory ? " We don't expect it ," says Murgiano . " There's enough of a
+DOS-based world out there , that if it happens at all , it won't be soon .
+We expect to see DOS , OS/2 , and Unix operating systems in the factory .
+However , in certain applications , such as simulation , we expect OS/2 to
+have a significant impact in the next year or two ."
+    So as simulation vendors take advantage of powerful operating systems
+and computer hardware developments , mainframes and other larger computers
+are no longer needed to satisfactorily model a plant or process . Simulation
+models on a PC can be just as accurate and valid as simulation models on
+larger computers . It is important that solid statistical analysis be done ,
+regardless of the computing power used . But as computer vendors continue
+to improve the capacity , speed , and capabilities of personal computers ,
+simulation becomes more affordable and faster . The question of whether to
+simulate is very much becoming a question of " Why not ?"
+
+                Develop application programs in 120 days
+
+    Despite the promise of various fourth-generation languages , application
+programs still cannot be automatically created . Particularly , these
+programs cannot be automatically created in a specific amount of time .
+But a team of engineers and manufacturing personnel at DuPont found a way of
+developing application programs quickly , typically in as little as 120
+days . Their secret : marrying a fourth-generation tool to a rapid-prototype
+methodology .
+    The employees at the DuPont Kevlar facility in Richmond , Va.,were among
+the first to use this metod . The goal was to develop programs that would
+collect more , and more accurate information on the production and quality
+of the KevlarSM industrial fiber more rapidly then previous methods , and
+distribute the collected data electronically .
+    KevlarSM is used in hundreds of products . It can be woven into a
+fabric , braided into a rope , or used outright as textile reinforcement .
+It is used in helmets , bulletproof vests , ski poles , as a replacement for
+asbestos in train brakes , and even in space shuttles . Changing the
+weight , thickness , or finish ,changes this fiber's properties . The
+problem for management was to keep track of all these changes in order to
+ensure quality and proper shipment to customers .
+    Making KevlarSM involves mixing polymer and solution in a proprietary
+process . In the next phase , spinning , the solution becomes yarn and is
+thereafter referred to as the parent bobbin . The parent then goes through
+a finishing operation where changes are made to the yarn to meet required
+customer specifications . The finished yarn is wound onto one or more
+bobbins which are known as children . Depending on the product specified ,
+the children can be recombined onto one or more bobbins and are called
+grandchildren . The bobbins are then packed into cartons , weighed , and
+shipped to a warehouse for distribution to customers .
+    " We need and want to know everything that happens in the manufacturing
+process ," says Stan Weaver , Senior Research Engineer ." That includes who
+doffed it ( took the bobbins off the spinning machine ), dates and times of
+various operations , properties that were run on the bobbin , all its
+children and grandchildren  , and so on ."
+    But no off-the-shelf program existed that could collect all these data .
+And estimates on how long it would take to develop an application program
+that met these complex needs were coming in at 2 1/2 years . Far too long
+to wait . Thus , another way had to be found to get the application software
+needed .
+    Tom Musselman , Techinal Group Manager , began the project of finding or
+developing application software for the KevlarSM Manufacturing Information
+System (KMIS). He assembled a team consisting of programmer-analysts and
+users . Weaver and Tom Claytor , Manager , Resources , were with the project
+from the beginning . The programmer-analysts , though , changed frequently
+throughout the project . Changing programmers on any project usually causes
+delays , but that didn't happen here because of the software development
+package selected .
+    Rapid prototyping . After evaluating various application-development
+tools , the team chose CorVision , from Cortex Co., Boston , a fourth-
+generation , application-development package .
+    According to Claytor and Weaver , one of the biggest benefits of
+CorVision is that it makes rapid prototyping of application software
+feasible . Commands and keystrokes remain consistent with a user throughout
+the programs . The tool also eases program maintenance because it has
+self-documenting features and a consistent programming code , and keeps all
+programs in a database for referenñe . This tool lets programmers design
+and build screens and reports , define data , and test and implement code .
+It frees programmers from solving programming problems so they can
+concentrate on creating solutions .
+    Because of CorVision , the team could develop a prototype of an
+application program in about four weeks . And because of the rapid-prototype
+methodology , the final version of that application program can be delivered
+in three to four monts .
+    RIPP . The Information Engineering Associates (IEA) unit of DuPont
+developed this rapid-prototype methodology , formally called Rapid Iterative
+Production Prototyping (RIPP). The first step is for the programmers and
+users to analyze and determine a reasonable first-solution approximation .
+The programming team then develops a prototype is given to the users to
+evaluate . During this stage , users can suggest changes to the user
+interface , ask for additional features that have since been determined as
+necessary , and make other modifications . Changes are implemented in a
+couple of weeks and sent back to the users for more evaluation . This
+iterative evaluation cycle is what helped get accurate , functional
+application software to the operators at the Kevlar facility within four
+month instead of the 25 or more months it would take using other development
+methodologies .
+    Important benefits results from this method because of user
+involvement . It is the end-users expertise of the process that is used to
+etermine what functions and interfaces are needed in the program to get the
+data . The end users also evaluate the prototypes in terms of functionally
+and user interface . Thus , they become supportive of the programs and
+training is practically eliminated .
+    According to Scott Shultz , founder ,IEA, this metod of application
+development also addresses some common problems with getting software
+programs delivered right and on time .
+    Long-term commitments in software usually do not work because people ,
+ideas , and situations change fadter that the software can .
+    Frequently , users know what their problem is , but they do not know how
+to define a complete solution on the first try .
+    People also tend to believe that they are going to get only one chance
+to ask for what they want , so they ask for as much as they can . These
+exploding requirements result in delaysand usually the failure or the
+project .
+    The best way to solve these problems is through an iterative ,
+evolutionary application-development process .
+    Custom success . There are now eight interconnected application
+programs , that comprise the KMIS system . The system hardware consists of
+two VAX 8650 computers and one VAX 8810 . There are 60 to 70 operators using
+the KMIS system at any time , and it handles about 16,000 transactions/day .
+Within one year , from January 1986 to January 1987 , 50% of this system was
+up and running on the factory floor ; considering the system's complexity ,
+the speed of implementation is impressive . A few of the modules are as
+follows .
+    The Standard Operating Conditions (SOCs) module specifies machine
+setting required to produce a certain product .
+    The Spinning module handles data on the creation of bobbins and machine
+downtime , and interfaces to vision-inspection systems to detect and log
+possible bobbin defects .
+    The Packing moduke collects data for checks on product quality and
+size . Cases are weighed electronically to obtain the weight , and a
+bar-code finished-product label is printed .
+    The Product Separation module keeps track of product separated when
+tests on random samples indicate that specifications are out of limits , or
+process upsets are detected upstream . This module manages the segregation
+and ultimate release of " suspect " product .
+    The tracking module manages the location of bobbins , buggies , and
+cartons .
+

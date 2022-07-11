@@ -1,0 +1,311 @@
+                NOISE AND HUMAN PERFORMANCE
+
+     Effects  of  noise  or unwanted sound on human health, behavior, and
+performance  are  becoming  of  increasing  practical and legal interest.
+Temporary   or  permanent  hearing  loss  and  the  masking  of  auditory
+information  are  clearly  harmful,  and  noise  can  also be undesirable
+because  of  distruction  and  annoyance. However many studies have shown
+that  noise  produces  minimal  significant  effects,  or  have indicated
+improvements in performance.
+
+ Testing
+   Most  research  on  noise  and  human  performance has concentrated on
+artificially  -  produced  sounds  and  psychological  tests of response,
+rather  than  real  -  life  situations. For example many tests have used
+slectronic  or  electromechanical  generators  to produce either tones or
+white   noise,   which  cannot  be  properly  correlated  with  realistic
+situations.  Other experimentation has been based on amplified recordings
+of  common  noisees  such as those of factories or street traffic, but in
+these there is no direct control over sound composition.
+
+ Noise measurement
+   The  standart  unit for specifying loudnes is the decibel. This equals
+20 log (P/P0), where P is the sound pressure and P0 is a reference value,
+normally  0.0002  microbar.  Noise  level may also be specified in dBA, a
+unit  in  which  somebands  of  the  frequency  spectrum  are weighter to
+equalize loudness based upon normative audiometric data.
+
+ Hearing loss
+   The  most  harmful  effects  of  noise are physiological damage to the
+auditory  system  and  resultant  temporary  or  permanent  hearing loss.
+Permanent  loss  is  of  major  concern  and  is  the  basis  for setting
+physiological  noise  exposure  limits.  However  temporary  loss is also
+important  because performance and capabilities based on auditory signals
+are impaired.
+   Hearing  loss  is  normally quantified in terms of an elevated hearing
+threshold.  For  reasons not yet well understood, threshold increases are
+greatest  at  frequencies  above  4  kHz, even when exposure amplitude is
+greater for lower frequencies. In addition high frequency sounds are more
+harmful  than  those  at the lower end of the auditory spectrum, and pure
+tones are more damagng than broadband noise of equal dB level.
+   Wide   differences   have   been  noted  among  individuals  in  their
+susceptibility  to noise exposures, and some hearing loss occurs normally
+as a function of age and disease. These factors and the cumulative effect
+of  repeated exposure make it difficult to isolate cause of hearing loss,
+without exhaustive historical data on lage populations.
+
+ Masking
+   Noise   directly   affects   human   performance  through  masking  or
+interference   with   speech  or  other  desired  auditory  signals.  The
+phenomenon  is  fairly  well  quantified, and considerable use is made of
+masking data in designing and evaluating communication systems.
+   Masking can be regarded as an elevation of the hearing threshold for a
+wanted  sound.  Masking  noise  is  usually  broadband, but the effect is
+greatest  from  frequencies  closest  to  that for which the threshold is
+being measured. Not all frequencies are equally sensitive to masking, and
+the  efect at the lowest levels, threshold increases are linear functions
+of the masking noise amplitude.
+   Various techniques are used for evaluating noise environments in terms
+of  their  interference  with  voice  communication.  For  example in the
+articulation  index,  the  audible  spectrum is divided into 20 frequency
+bands.  An  average  is  computed  from the sound pressure levels of each
+band,  and  the  value  is converted to an index indicating the degree of
+speech intelligibility on a scale from 0 to 10.
+
+ Performance in industry
+   Various  studies  have been conducted in factories and offices to test
+effects  of  noise  reduction  on  worker productivity. By any scientific
+standards,  most  such  results  can  be discounted because of inadequate
+control of other variables such as learning and motivation. The latter is
+particularly significant, since any special attention shown to workers is
+likely to provide motivation and improve work output.
+   Studies  were  conducted  on  the  performance of weavers, in a normal
+working  environment  with  a noise level about 96 dB. One group wore ear
+plugs  on  alternate weeks, which reduced the noise level by 10 to 15 dB,
+and  a  17%  gain in efficiency was found. In a similar test with matched
+groups of workers, one of which wore ear plugs, a similar gain was noted.
+Differences   between  the  groups  diminished  toward  the  end  of  the
+experiment,  suggesting  that  some  of  the  improvement  resulted  from
+increased motivation.
+   Another   widely-quoted   study  involved  installing  sound-absorbing
+material  in  office  areas.  Productivity of typists and clerks improved
+dramatically,  but  no  control was exerted over other factors that could
+have been changing.
+   Opposite  results  have  also  been reported. One comparison of typing
+efficiency  in quiet and noisy office showed greater speed and less waste
+for  the latter condition. Unfortunately this study suffered from a small
+number of subjects, and no control of other physical conditions.
+
+ Non-auditory sensations
+   Exposure  to  noise levels above 140 dB typically produces nonauditory
+sensations  such  as  muscular weakness, loss of equilibrium, and nausea.
+These  effects may be caused by vibrations transmitted to body tissue, as
+well  as  stimulation  of  vestibular  sense  organs. The latter has been
+studied  by  measuring the ability of subjects to stand and walk on rails
+of  variouts  widths under exposure to broadband noise at various levels.
+Differences  in balance time were not significant for 70, 80, and 120 dB.
+Tests  with exposure to 100 dB at one ear and 80 dB at the other produced
+some  reduction  in  balance  time,  but  these  were  not  statistically
+significant.
+   A  similar  study was conducted using a series of pure tones at 95 dB,
+and at 75 and 95 dB. Performance was degraded slightly for the unbalanced
+condition,  suggesting  some  direct  effects  of noise on the vestibular
+sensory   system.   A  subsequent  study  with  the  same  stimuli  in  a
+two-dimensional  postural  tracking test showed no effects on equilibrium
+from  asymmetrical  noise.  Introduction  of 5-sec bursts of 70 and 90 dB
+noise  while  measuring body sway suggested a possible effect from the 70
+dB noise but not from the 90 dB noise.
+   In  studying  exposure to aircraft noise, experimenters concluded that
+the  results  were  indeterminate for tests of muscular tension, speed of
+visual  accommodation, saccadic eye movements, body sway,hand steadiness,
+reversible  perspective,  and  dark  adaption;  on  a  test  of  distance
+judgment,   there  was  clearly  no  noise  effect.  Brightness  contrast
+discrimination  under  noise  exposures  of  45 and 90 dB showed slightly
+increased  threshold  differences  and  response  times  for  the  90  dB
+condition. However in the range of noise amplitudes normally encountered,
+effects on senses other than hearing can generally be disregarded.
+
+ Reaction time
+   Simple  reaction time tests have been conducted with a hammer striking
+an  anvil  continuously and intermittently, and in the presence of 135-dB
+jet engine noise. Decrements in all cases were not consistent.
+   A  more  complex test involving hand and foot response also yielded no
+differences for exposures to 90 and 115 dB aircraft noise. Under the same
+conditions,  a  serial  reaction  test showed a speed reduction of 5.4 %.
+Other  serial  reaction tests have also consistently shown decrements due
+to  noise,  although  these  appeared  as  increased  errors  rather than
+decreased  speed.  Similar  tests with sleep deprivation and knowledge of
+results  as additional variables found increases in errors as a result of
+noise,  but  these  were  inconsistent  possibly  because  subjects had a
+greater degree of experience on the test.
+
+ Vigilance
+   Vigilance   tests   involve  detecting  infrequent  and  inconspicuous
+signals,  usually  on  visual  displays.  Noise might be expected to keep
+subjects  alert  and  thereby  improve performance. However this does not
+generally  seem  to  be  the  case.  Test  conducted with broadband noise
+exposures  of  70  and  100 dB showed no differences on the monitoring of
+light,  but  a  30  % decrease in the number of detected signals on steam
+gages  during the 100 dB exposures. Vigilance tests requiring subjects to
+detect double jumps of a clock hand, with white noise exposures of 83 and
+114  dB,  showed  slightly  more  signals  missed  under the higher noise
+condition.   Differences  were  greatest  near  the  end  of  the  2-hour
+exposures.
+   Steady  and  intermittent  noise  has  also  been studied. For example
+subjects  have  been  required to detect momentary deflections of cathode
+ray  tube  targets  in  low,  steady,  and  variable  noise environments.
+Performance  was  slightly  better with the variable noise than under the
+other two conditions.
+
+ Tracking and manipulation
+   Tracking studies have been conducted in which subjects insert a stylus
+in holes in a moving object, under a variety of conditions. Reductions in
+performance  were  noted  as noise level increased, with more effect from
+warbling than steady noises and from high than low pitch tones.
+   Another  study,  including  a  coordinated  serial  pursuit test and a
+high-speed  pursuit  rotor  test,  showed no effects from 115 dB aircraft
+noise.  In  a  similar  experiment,  measuring azimuth tracking and range
+finding,  subjects  worked for 4 hours with 120-dB noises inserted for 2-
+and 3-minute periods. Result were somewhat variable, and some performance
+improvements  were  even noted, apparently a result of breaking monotony.
+Another  conventional compensatory persuit test and a mirror tracing test
+showed  no  decrements from intermittent 1000 and 2500 Hz tones at 115 to
+122 dB.
+   Tests  have  been conducted in which two mutually perpendicular cranks
+are  used  to  control  stylus  position  in following a moving target or
+irregular  path.  One such test, with 4-hour exposures to noise levels of
+70, 80, and 90 dB, showed errors which increased significantly with noise
+level.  A  similar  test  involving  exposures to 135 dB jet engine noise
+revealed  small decrements, in a third two-hand coordination test, noises
+were  separated  into six octave bands ranging from 75 to 150 Hz and 2400
+to  4800  Hz  at five levels from 37 to 100 dB. Results showed systematic
+decrements  as  a  function  of  noise,  with greatest effects at highest
+frequencies.
+   Related tests involving eyehand coordination, with subjects exposed to
+noise  up  to  90  dB,  showed  initial  decrements  in performance which
+disappered  asthe  subjects  became  accustomed  to  the  noise.  A block
+assembly  test has also been used, with results suggesting some decrement
+during exposures to jet engine noise at 128 to 135 dB.
+   Hand  tool  dexterity  tests  were conducted using white noise at 120,
+130,  and  140  dB,  in  which ear protective device were used to produce
+symmetrical  and  asymmetrical  reductions  from  the  ambient level. The
+subjects  were  therefore  exposed  to  the  high  noise levels, although
+intensity  at  the ears was reduced. Statistically significant decrements
+appeared  at  130 and 140 dB, with results about the same for symmetrical
+and  asymmetrical  conditions.  However  the  high  sound levels produced
+noticeable  vibrations  of  small  test  parts,  and at least some of the
+decrements was attributed to this phenomenon.
+
+ Time estimation
+   An   interesting  effect  of  noise  is  a  tendency  of  subjects  to
+overestimate the passage of time. This effect is illustrated by a test in
+which  subjects  were  asked  to press a switch after what they judged as
+10-minute  intervals,  while  they  were  also  occupied  at other tasks.
+Comparison  between  77,5  dB  and  111,5  dB  conditions showed that the
+average  interval  judged  to  be  10 minutes was about 9 minutes for the
+former  and 7 minutes for the latter condition. In a similar test with 80
+and  110  dB  noise,  differences  in  time estimation lacked statistical
+significance.  Finding  were  also  reported in a test in which different
+noise  levels  were  presented  during  a  given  interval,  and subjects
+attempted to repeat that interval. Again, the noise caused an increase in
+the estimated duration.
+
+ Intellectual functions
+   Intellectual  and perceptual functions, such as those requiring mental
+arithmetic, are normally considered sensitive indicators of environmental
+stress.  Most  such tests have found little or no decrement due to noise.
+Further,  when  decrement  was  found,  it often vanished as the subjects
+became accustomed to the noise. This suggest that the mechanism of action
+is through distraction rather than impairment of ability.
+   In  a  typical  experiment  subjects  were  asked  to subtract 4-digit
+numbers  from  6-digit  memorized  numbers,  and  record the differences.
+Groups  worked  either  in  70 dB conditions on two days, or in 70 dB the
+first day and 100 dB the second. No consistent effects were noted. On the
+first  day, the group exposed to the 100 dB noise appeared to show slight
+deterioration, but on the second day the group exposed to noise surpassed
+those working at 70 dB.
+   In  another  intellectual  performance  test, subjects were faced with
+three  lights flashing at different rates. Each light was associated with
+a  switch,  which  the subject was required to operate when the light had
+flashed  a  specified  number  of  times. Performance was measured during
+2-hour  sessions,  including 90-minute exposures to 111.5 dB white noise,
+and  a  control  condition of 77.5 dB. A decline in performance was found
+during the noise, but the effect was not statistically significant.
+   Also of interest is an experiment on the effect of upward and downward
+changes  in  noise level. Subjects were shown a group of ten letters, and
+asked to indicate which of certain threeletter combinations were present.
+During  the 1-hour sessions, some subjects were exposed to constant noise
+while others experienced a shift upward from the 81 dB level. Performance
+did  not  decline at higher noise levels, but changes in either direction
+caused a decrement.
+   A  test  of  visual  discrimination was conducted with noise levels of
+120, 130, and 140 dB modified by ear protection to obtain symmetrical and
+asymmetrical  stimulation.  Results  showed  increasing  errors  only for
+asymmetrical  stimulation  at  the  two  highest noise levels. In another
+experiment,  subjects  were  asked  to  draw lines to each of 25 randomly
+located  numbers in succession under exposure to 85, 95, and 110 dB noise
+levels.  This  test  showed  a considerable improvement through learning,
+which  was greatest during quiet conditions. A shift from quiet to 110 dB
+noise caused a small decrement in the number of patterns completed.
+   A similar test also required the subject to search for certain numbers
+in  a display, under conditions of quit, 70 dB bursts, and 110 dB bursts.
+There  were  no  overall  differences  between  the  conditions, although
+immediately  following  the  110 dB bursts the subjects frequently missed
+seeing the presented target condition.
+
+ Sonic booms
+   In  addition  to  continuous  or  interrupted  audible  sounds,  other
+varieties  of  noise  terms  of effects on human performance. For example
+supersonic  aircraft  produce an atmospheric pressure wave or sonic boom,
+which  is  of interest in relation to public acceptability of overflights
+by  such  craft.  Effects  are  usually  described as startle, annoyance,
+interference  with activites, and disruption of sleep or relaxation. Such
+effects  are  influenced  by  the  previous  experience and foreknowledge
+concerning the boom, as well as loudness.
+   Aside  from  the  community  reaction studies, laboratory measurements
+have  been  conducted  of human performance immediately after exposure to
+simulated sonic booms. On a symbol recognition test during 30-sec periods
+following  booms of 0.80, 1.42, and 2.53 lb/ft2 wavefronts, only the most
+severe booms produced performance impairment.
+
+ Sub-audible noise
+   Frequencies below the audible range tend to be felt rather than heard,
+and are often considered as vibration rather then noise. Possible effects
+on  human  performance  have  not  been  extensively studied, most likely
+because of the unavailability of suitable energy sources.
+   One  preliminary  study using a variety of 1- to 100-Hz sources showed
+some  results  at  high energy levels. Voluntary subjective tolerance was
+reached  at  about  154  dB  for  frequencies  from  50 to 100 Hz, due to
+subjective nonauditory symptoms such as nausea, giddiness, and tingling.
+Most important for human performance there was a significant decrement in
+visual  acuity.  Other  tests  showed  no  decrements  other than a small
+reduction in speech intelligibility at high energy levels.
+
+ Mechanisms of action
+   Several  hypotheses  have  been  advanced  to clarify the influence of
+noise  on  human performance. For example it is often held that noise and
+variations  in  noise  distract  attention  from  primary  tasks. Such an
+explanation  can  account  for the frequent finding of a decrement at the
+onset   of   noise,  and  a  subsequent  return  to  normal  performance.
+Distraction  can  similarly  account  for  reported  decrements following
+cessation  of  noise  and for the greater susceptibility of some tests to
+the  effects  of  noise.  For  example  certain  tests require particular
+concentration  of  attention,  and therefore more readily show impairment
+from distraction.
+   An  explanation  of some noise data has been offered by analogy to eye
+blinks in vision. If noise causes momentary blocks to the auditory intake
+of  information,  occurrence  at  critical  times  could  cause  impaired
+performance.  For  example,  on vigilance tests, external signals come at
+unpredictable  times  and  could  coincide  with  auditory  blocks.  This
+hypothesis  is  not  greatly different from the explanation of noise as a
+distractor,  since  distractions can be considered momentary events which
+cause deviations in attention.
+   The  distinction between short-term and long-term memory has also been
+used  to  explain  effects  of  noise.  Information  s  normally  held in
+short-term memory for one or two seconds, then either transferred to more
+permanent  storage  or  lost  forever.  Noise  may increase difficulty in
+retaining  information  in  short-term memory. In this case, a test which
+forced the subject to hold and use rapidly-changing information should be
+disrupted  by  noise.  However  complex counting tasks, in which subjects
+count  the flashes from each of several lamps, have not been particularly
+sensitive to noise.
+   None  of  these  mechanisms  explain the occasional finding that noise
+improves  performance.  For  this  there  is  the  arousal  and activatin
+hypothesis,  according  to  which never impulses to the midbrain activate
+cortical  activity.  Such activatin is evident as increased alertness and
+motivation  of  the  organism.  However  the assumption that noise has an
+activating  effect  presupposes that subjects under quiet conditions were
+operating at less than maximum alertness or motivation.
+
+
+                               THE END.

@@ -1,0 +1,75 @@
+                   COMPUTER FOR CONTROL AND AUTOMATION
+
+   Computerized   monitoring,  supervision,  and  control  of  industrial
+processing  and manufacturing are expanding rapidly, according to a study
+by   Creative  Strategies  Inc.  Purchases  of  computers  for  automated
+applications  are  expected  to  increase  at  an annual rate of 19%, and
+reach $424 million by 1976.
+
+ Incentives
+   The  high  investents  required for effective use of control computers
+are  often  justified  by resultant increases in productivity. During the
+1960s,  automation and economies of scale fostered productivity growth at
+an  average annual rate of 4.2%. To meet increasing demands for products,
+manufacturing  industries have been doubling capital expenditures for new
+plants  and  equipment  every  10 years, and such spending is expected to
+exceed  $35  billion in 1976. As more workers continue to shift from blue
+to white collar jobs, additional automation will be required to keep pace
+with expected demands.
+   In  addition,  labor  costs  are  the  largest  single element in many
+industries.  Output  per  man-hour  in  the private sector of the economy
+increased by an average of 3% between 1960 and 1970, but compensation per
+man-hour  grew  at  the yearly rate of 5.6%. The result, an average 2.58%
+annual  rise  in  unit  labor cost, has been a key to the inroans made by
+foreing   manufacturers.   American   industries  are  expected  to  rely
+increasingly on computers to overcome these economic disadvantages.
+   Further  incentives are provided by needs for product improvements and
+by  pressures  expected  from  federal  laws regulating worker safety and
+environmental  pollution.  Many of the new products and complex processes
+require  close  tolerances  and intricate control schemes, which are only
+possible using advanced automation concepts.
+
+ Trends
+   Computer  hardware  has  evolved  through several generations. Present
+machines  show a clear trend toward the higher speeds, smaller sizes, and
+lower  costs suitable for on-line industrial use. Applications have shown
+a  corresponding  trend  from  highly  centralized direct digital control
+techniques, to hierarchical or multilevel systems involving various types
+and  size of interconnected computing devices. For example a programmable
+controller   may   perform  several  sequencing,  logic,  and  regulatory
+functions  at the process or product level; a mini-computer may supervise
+several  programmable  controllers to determine an operating strategy and
+provide  emergency  back-up; a large computer may oversee several smaller
+machines  to  provide  overall  production  optimization;  and a business
+computer  may  be  interfaced  with  the large control computer to form a
+complete management information system.
+
+ Control computer users
+   Creative  Strategies  identifies the petroleum and chemical industries
+as  the  major present control computer users. In 1971, the petrochemical
+producers  accounted  for  approximately 28% of all such computers. These
+industries are expected to increase utilization at an annual rate of 27%,
+reaching  $140  million  in  1976.  The  high growth rate is due to heavy
+dependence on automated equipment, caused by intensive capitalization and
+rapid technological obsolescence.
+   In  metals  and minerals processing, primary applications have been in
+fabricating and shaping steel and aluminum. Annual purchases are expected
+to increase from the current $12 million level to $35 million in 1976, an
+annual  gain  of  24%. Important new applications will include continuous
+casting, glass manufacturing, and pollution monitoring.
+   Pulp and papermaking, food processing, textiles, and rubber production
+are  also major processing industries using control computers. The demand
+in  these  areas  is  expected  to  grow  from $23 million in 1971 to $41
+million in 1976, an average yearly increase of 12%.
+   In  the  electric utilities, need for control computers is expected to
+rise  from  $30  million  in 1971 to $116 in 1976, representing an annual
+growth  of  28%.  Present  generating  station  control and economic load
+dispatch  applications will be supplemented by system security and remote
+substation monitoring.
+   Purchase  of  control  computers  for  discrete parts manufacturing is
+expected  to  increase  from $37 million to $101 million between 1971 and
+1976,  at  an  annual  rise  of 23%. Use will be widespread in control of
+machining,  assembly,  and  testing,  as  well  as  in overall production
+monitoring and optimization.
+
+                               THE END.
