@@ -2,7 +2,7 @@ unit fconst;
 
 INTERFACE
 
-uses objects,menus,views,dialogs,drivers,msgbox,app;
+uses objects, menus, views, dialogs, drivers, msgbox, app;
 
 const
  cmAbout        =201;
